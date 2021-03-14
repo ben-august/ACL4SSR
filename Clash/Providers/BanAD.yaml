@@ -1,7 +1,5 @@
 payload:
   # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
-##test15:10
-  - DOMAIN-KEYWORD,admarvelyu
 # 广告关键词
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
